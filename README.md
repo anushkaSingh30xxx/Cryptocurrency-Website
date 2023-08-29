@@ -3,4 +3,5 @@
 2. This project included all the information about the top 100 crypto currencies and used the CoinRanking API to
 gather data. Based on what you are looking for, it offers charts and the latest news.
 
-![Cryptocurrency scrrenshot](https://github.com/anushkaSingh30xxx/Cryptocurrency-Website/assets/101061044/c89a3956-73b9-4e67-936a-4da01548a0d6)
+
+<img width="932" alt="crypto info" src="https://github.com/anushkaSingh30xxx/Cryptocurrency-Website/assets/101061044/191e032d-336e-43db-ad1d-0efa305956bb">
