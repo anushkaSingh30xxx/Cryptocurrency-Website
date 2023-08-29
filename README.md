@@ -1,4 +1,4 @@
-# Crypto World
+# Crypto Info
 1. Tools & technologies used: HTML, CSS, JavaScript, React JS.
 2. This project included all the information about the top 100 crypto currencies and used the CoinRanking API to
 gather data. Based on what you are looking for, it offers charts and the latest news.
